@@ -43,7 +43,7 @@ At **3Tech**, I led the development of **CRM and eCommerce platforms**, boosting
 
 ## 📊 GitHub Stats  
 
-![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)  
+![Ahmed's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmedhamza1001&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamza1001&layout=compact&theme=tokyonight)  
 
 ---
