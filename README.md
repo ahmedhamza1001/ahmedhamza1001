@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ahmed Hamza  
 
-🚀 **Full-Stack Web Developer | PHP (Laravel, CodeIgniter) | Vue.js | React.js | Node.js**  
+🚀 **Full-Stack Web Developer | PHP (Laravel, CodeIgniter) | Vue.js | React.js | Node.js | Alpine.js**  
 💻 Passionate about building scalable, maintainable, and high-impact web applications.  
 
 ---
