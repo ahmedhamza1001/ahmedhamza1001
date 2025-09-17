@@ -31,8 +31,8 @@ At **3Tech**, I led the development of **CRM and eCommerce platforms**, boosting
 
 ### 🧩 Architecture & Tools  
 - **Patterns:** MVC, Clean Architecture, Modular Codebases  
-- **Version Control:** Git, CI/CD workflows  
-- **Deployment:** cPanel, VPS, Docker (basic level)  
+- **Version Control:** Git  
+- **Deployment:** cPanel, VPS, (basic level)  
 
 ### 🛒 E-Commerce & SaaS  
 - Cart, Checkout, Coupons, Payment Gateway Integrations  
