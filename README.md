@@ -119,21 +119,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ahmedhamza1001&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=38bdf8"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedhamza1001&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8"/>
-
-<br/>
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=ahmedhamza1001&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8)](https://github.com/ahmedhamza1001)
-
-</div>
-
----
-
 ## 💼 Work Experience
 
 | Period | Role | Company | Type |
