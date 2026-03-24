@@ -24,32 +24,12 @@
 
 ## 👨‍💻 About Me
 
-```php
-<?php
+- Full Stack Developer with **4+ years experience**
+- Specialized in **Laravel, CodeIgniter, React.js**
+- Worked with clients across **Saudi Arabia, UAE, and Egypt**
+- Built **50+ production systems** (ERP, eCommerce, SaaS)
+- Focused on **clean architecture, performance, and scalability**
 
-class AhmedHamza extends FullStackDeveloper
-{
-    public string $location    = "Egypt 🇪🇬 · Works with clients in KSA, UAE & MENA";
-    public string $experience  = "4+ years";
-    public int    $delivered   = 50; // production systems
-
-    public array $currently = [
-        "Full Stack Laravel Developer @ 3Tech    — Riyadh, KSA (Full-time)",
-        "Full Stack Laravel Developer @ Shagoof  — Remote     (Part-time)",
-    ];
-
-    public array $domains = [
-        "eCommerce", "ERP", "CRM", "SaaS",
-        "Real Estate", "Multi-tenant Systems", "Logistics",
-    ];
-
-    public array $integrations = [
-        "Paymob", "MyFatoorah", "Aramex", "OTO", "Fleet Maps API",
-    ];
-
-    public string $philosophy = "Clean architecture. Reliable systems. Measurable business value.";
-}
-```
 
 ---
 
